@@ -1,0 +1,22 @@
+{
+  "name": "dojo-2024-12-05--tinder-node",
+  "version": "1.0.0",
+  "description": "DOJO 2024-12-05 Tema: Tinder DEV",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "nodemon src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ygorcf/dojo-2024-12-05--tinder-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ygorcf/dojo-2024-12-05--tinder-node/issues"
+  },
+  "homepage": "https://github.com/ygorcf/dojo-2024-12-05--tinder-node#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
